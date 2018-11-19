@@ -1,0 +1,280 @@
+header {
+    padding: 36px 40px;
+    border-bottom: 2px ridge;
+
+}
+
+body {
+    background-color: #f0f2f4;
+}
+
+
+.wrapper {
+    color: #424242;
+
+}
+
+.top ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+
+}
+
+
+
+.nav_bar {
+    padding: 26px 64px;
+}
+
+
+.container {
+    max-width: 1056px;
+}
+
+.nav-item a {
+    color: #767676;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+
+.btn {
+    background-color: #de2b24;
+    color: white;
+    padding: 5px 22px;
+}
+
+
+.banner_area{
+    background-image: url(img/banner_back.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.banner_content h2{
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+
+.banner_content h5{
+    color: white;
+    font-size: 30px;
+    
+}
+
+
+.btn_banner{
+        padding: 12px 34px;
+    background-color: #f8cd53;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+
+.about_area{
+    padding: 70px 20px;
+}
+
+
+
+.about_content h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: #424242;
+}
+
+
+.about_content p::before{
+    content: '';
+    height: 5px;
+    width: 60px;
+    background-color:  #424242;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+
+
+
+.about_content p{
+    font-size: 20px;
+    color:  #424242;
+    margin-bottom: 
+}
+
+
+
+
+.about_fb h2{
+    font-size: 22px;
+    color:  #424242;
+}
+
+.landing_page h2{
+        font-size: 22px;
+    color:  #424242;
+}
+
+.about_ads h2{
+       font-size: 22px;
+    color:  #424242;
+}
+
+.approch_area{
+    padding: 80px 20px;
+    background-color: #f3f3f3;
+}
+
+
+
+
+
+.text_approch h2{
+    
+    font-size: 36px;
+    color: #424242; 
+    
+}
+
+
+
+.text_approch p{
+    font-size: 20px;
+    color: #424242; 
+}
+
+
+
+.text_approch p::before{
+    content: '';
+    height: 5px;
+    width: 60px;
+    background-color:  #424242;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+
+
+.step1{
+    background-color: #ffffff!important;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.09);
+    margin-top: 35px;
+    margin-bottom: 30px;
+
+}
+
+
+.step1 h4{
+    display:inline-block;
+    color:  #424242;
+    
+}
+
+
+.step1 p{
+  
+    color:  #424242;
+}
+
+
+
+.work_area{
+    height:80px 20px;
+    background-color:#de2b24;
+    margin-top: 20px;
+}
+
+
+.work_head{
+    
+    margin-top: 60px;
+    color: white;
+}
+
+
+.work_head h1{
+    font-size: 36px;
+}
+
+.work_head p{
+    font-size: 20px;
+    
+}
+
+
+.work_head p::before{
+    content: '';
+    background: white;
+    left: 0;
+    right: 0;
+    height: 5px;
+    width: 60px;
+    bottom: 0;
+    margin: 0 auto;
+    position: absolute;
+}
+
+.work_content{
+    text-align: center;
+    background: #F35E59;
+    height: 100%;
+    color: white;
+    padding: 75px 0px 0px;
+    width: 100%;
+   
+}
+
+.submit_area{
+    padding: 80px 20px;
+    background-color:#1287bf;
+}
+
+
+.submit_area h1{
+    color: white;
+    font-size:36px; 
+}
+
+.submit_area p{
+    color: white;
+    font-size: 20px;
+}
+
+
+.submit_area i{
+    color: white;
+    font-size: 60px;
+}
+
+
+.submit_area i::before{
+        box-sizing: border-box;
+}
+
+.submit_form{
+    position: relative;
+    margin: 50px auto;
+    width: 700px;
+    height: 500px;
+    background: white;
+}
+
+.submit_form p{
+    color:  #424242;
+}
+
+.active_form {
+    border: 1px solid #97B9F0;
+
